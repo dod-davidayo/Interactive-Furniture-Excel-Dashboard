@@ -62,7 +62,7 @@ The dashboard provides insights into:
 
 
 ## 📂 Project Files
--  → Raw dataset
+- `Furniture_Sales.csv` → Raw dataset
 -  → Power Query transformations & Final interactive dashboard  
 - `README.md` → Project documentation  
 
