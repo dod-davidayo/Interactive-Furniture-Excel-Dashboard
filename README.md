@@ -24,7 +24,7 @@ The dashboard provides insights into:
 2. Sales Trend Analysis : Monthly sales patterns across the year.  
 3. Shipping Mode Analysis : Most common shipping methods used by customers.  
 4. Shipping Duration : Breakdown of average delivery times.  
-5. Regional Sales Map :  U.S. state-by-state sales performance.  
+5. Regional Sales Map :  U.S. state by state sales performance.  
 6. Top Selling Categories : Tables, Furnishings, Chairs, Bookcases.  
 7. Top Selling States  :  California, New York, Texas, Washington, Pennsylvania.  
 
@@ -49,6 +49,8 @@ The dashboard provides insights into:
 
 ---
 
+## 📷 Dashboard Overview
+
 ## 📷 Power Query
 <img width="1365" height="767" alt="power query " src="https://github.com/user-attachments/assets/326c5b71-4d09-4567-bc85-634ae8d7857f" />
 
@@ -59,12 +61,7 @@ The dashboard provides insights into:
 <img width="1363" height="719" alt="Calculation   Pivot Table" src="https://github.com/user-attachments/assets/977d1814-9dd2-4529-9b90-bb25bb0c50c5" />
 
 ## 📷 Dashboard Preview
-
-
-## 📂 Project Files
-- `Furniture_Sales.csv` → Raw dataset
--  → Power Query transformations & Final interactive dashboard  
-- `README.md` → Project documentation  
+<img width="1365" height="723" alt="Furniture slicer dashboard" src="https://github.com/user-attachments/assets/ffe22982-a4b1-44b2-b3fb-fdf2df1b6f48" />
 
 
 ---
