@@ -1,7 +1,7 @@
 # 📊 Interactive Furniture Sales Dashboard
 
 ## 📌 Project Overview
-This project demonstrates how to use Excel with Power Query and Pivot Tables  to build an interactive sales dashboard  for a furniture company, It was designed to demonstrate data analysis, visualization, and dashboard design skills in Excel for real-world business decision-making.
+This project demonstrates how to use Excel with Power Query and Pivot Tables  to build an interactive sales dashboard  for a furniture company, It was designed to demonstrate data analysis, visualization, and dashboard design skills in Excel for real-world business decision making.
 
 The dashboard provides insights into:
 - Sales performance (Sales, Profit, Quantity)  
